@@ -1,2 +1,2 @@
 # Pix2pix-Gans-TensorFlow
-Pix2Pix Generative Adversial Neural Network using TensorFlow Framework
+The project utilizes Pix2Pix GANs (Generative Adversarial Networks) to generate facade images. By training the model on a dataset of paired images, where one image represents building facades and the other depicts the corresponding ground truth images, Pix2Pix learns to generate realistic facades from input sketches or noisy images. This approach enables the creation of visually appealing architectural designs, assisting in urban planning, and facilitating the exploration of different building styles.
